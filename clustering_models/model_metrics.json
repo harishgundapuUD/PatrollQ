@@ -1,0 +1,22 @@
+{
+    "models": {
+        "clustering": {
+            "KMeans": {
+                "run_id": "1213bce91e6248228ef9de51a62b2fba",
+                "k": 10,
+                "silhouette_score": 0.4171832505998242,
+                "davies_bouldin_index": 0.8135945876704429,
+                "inertia": 690.6800057570143,
+                "bestmodel": "yes"
+            },
+            "DBSCAN": {
+                "run_id": "b17d7f49b2fa4af9b828023c2e792b7f",
+                "eps": 7.848061528802385e-05,
+                "min_samples": 10,
+                "silhouette_score": 0.022783438707535582,
+                "davies_bouldin_index": 1.4354769433592225,
+                "bestmodel": "no"
+            }
+        }
+    }
+}

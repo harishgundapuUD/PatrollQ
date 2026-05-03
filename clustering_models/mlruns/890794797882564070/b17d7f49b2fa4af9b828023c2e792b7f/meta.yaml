@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/clustering_models/mlruns/890794797882564070/b17d7f49b2fa4af9b828023c2e792b7f/artifacts
+end_time: 1777804606640
+entry_point_name: ''
+experiment_id: '890794797882564070'
+lifecycle_stage: active
+run_id: b17d7f49b2fa4af9b828023c2e792b7f
+run_name: DBSCAN Clustering
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777804562082
+status: 3
+tags: []
+user_id: harish

@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/dimensionality_reduction_models/mlruns/146024891140274790/models/m-1ffad10bbeec4127ba3f4b60ead78a2c/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.4.0
+model_id: m-1ffad10bbeec4127ba3f4b60ead78a2c
+model_size_bytes: 912
+model_uuid: m-1ffad10bbeec4127ba3f4b60ead78a2c
+prompts: null
+run_id: 66a53abe330b4b8fbb6988e83efa56f1
+utc_time_created: '2026-05-03 11:10:50.089894'

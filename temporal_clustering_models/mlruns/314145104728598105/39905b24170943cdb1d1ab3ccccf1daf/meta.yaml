@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/temporal_clustering_models/mlruns/314145104728598105/39905b24170943cdb1d1ab3ccccf1daf/artifacts
+end_time: 1777806612918
+entry_point_name: ''
+experiment_id: '314145104728598105'
+lifecycle_stage: active
+run_id: 39905b24170943cdb1d1ab3ccccf1daf
+run_name: KMeans Temporal Clustering
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777806582536
+status: 3
+tags: []
+user_id: harish

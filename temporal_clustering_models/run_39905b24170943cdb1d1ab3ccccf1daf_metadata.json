@@ -1,0 +1,13 @@
+{
+    "run_id": "39905b24170943cdb1d1ab3ccccf1daf",
+    "params": {
+        "n_clusters": 10,
+        "init": "k-means++",
+        "max_iter": 500
+    },
+    "model_artifacts": {
+        "model": "KMeans_Temporal_Model",
+        "cluster_centers_image": "clustering_plots/kmeans_temporal_centers.png",
+        "clustered_data": "dataset/kmeans_temporal_clustered_crimes.csv"
+    }
+}

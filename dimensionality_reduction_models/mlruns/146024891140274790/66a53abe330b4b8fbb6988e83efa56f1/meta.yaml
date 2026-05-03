@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/dimensionality_reduction_models/mlruns/146024891140274790/66a53abe330b4b8fbb6988e83efa56f1/artifacts
+end_time: 1777806664907
+entry_point_name: ''
+experiment_id: '146024891140274790'
+lifecycle_stage: active
+run_id: 66a53abe330b4b8fbb6988e83efa56f1
+run_name: PCA
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777806649928
+status: 3
+tags: []
+user_id: harish

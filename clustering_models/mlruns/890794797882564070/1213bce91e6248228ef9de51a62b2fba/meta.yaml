@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/clustering_models/mlruns/890794797882564070/1213bce91e6248228ef9de51a62b2fba/artifacts
+end_time: 1777804562073
+entry_point_name: ''
+experiment_id: '890794797882564070'
+lifecycle_stage: active
+run_id: 1213bce91e6248228ef9de51a62b2fba
+run_name: KMeans Clustering
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777804542035
+status: 3
+tags: []
+user_id: harish

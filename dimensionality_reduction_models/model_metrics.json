@@ -1,0 +1,10 @@
+{
+    "models": {
+        "dimensionality_reduction": {
+            "PCA": {
+                "run_id": "8a1b0ed337a7469d8f380674a91bb4f9",
+                "n_components": 2
+            }
+        }
+    }
+}

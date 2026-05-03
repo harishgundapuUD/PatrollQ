@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/dimensionality_reduction_models/mlruns/146024891140274790/models/m-1ffad10bbeec4127ba3f4b60ead78a2c/artifacts
+creation_timestamp: 1777806650022
+experiment_id: '146024891140274790'
+last_updated_timestamp: 1777806656676
+model_id: m-1ffad10bbeec4127ba3f4b60ead78a2c
+model_type: null
+name: PCA_Model
+source_run_id: 66a53abe330b4b8fbb6988e83efa56f1
+status: 2
+status_message: null

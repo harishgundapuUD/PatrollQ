@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/temporal_clustering_models/mlruns/314145104728598105/models/m-7650747c4b01485c9d56f964938ccc83/artifacts
+creation_timestamp: 1777806582683
+experiment_id: '314145104728598105'
+last_updated_timestamp: 1777806593051
+model_id: m-7650747c4b01485c9d56f964938ccc83
+model_type: null
+name: KMeans_Temporal_Model
+source_run_id: 39905b24170943cdb1d1ab3ccccf1daf
+status: 2
+status_message: null

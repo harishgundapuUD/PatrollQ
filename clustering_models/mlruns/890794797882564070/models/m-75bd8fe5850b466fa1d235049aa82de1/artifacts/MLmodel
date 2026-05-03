@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/haris/OneDrive/Desktop/Guvi/Projects/patrollq/code/clustering_models/mlruns/890794797882564070/models/m-75bd8fe5850b466fa1d235049aa82de1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.4.0
+model_id: m-75bd8fe5850b466fa1d235049aa82de1
+model_size_bytes: 2052588
+model_uuid: m-75bd8fe5850b466fa1d235049aa82de1
+prompts: null
+run_id: 1213bce91e6248228ef9de51a62b2fba
+utc_time_created: '2026-05-03 10:35:42.172573'
